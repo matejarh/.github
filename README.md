@@ -21,7 +21,7 @@ I'm a full-stack developer who builds modern, secure, and performant web applica
 | Project | Description |
 |--------|-------------|
 | 🧾 [**uploader-app**](https://github.com/matejarh/uploader-app) | A Laravel + Vue app for accounting firms where clients upload documents per company. Includes user roles, 2FA, and admin controls. |
-| 🌐 [**app.web3-solutions.eu**](https://app.web3-solutions.eu) | A custom Laravel/Vue web app dashboard for managing Web3-based services. |
+| 🌐 [**app.web3-solutions.eu**](https://matejarh/app.web3-solutions.eu) | A custom Laravel/Vue web app dashboard for managing Web3-based services. |
 | 🧺 [**cistilnica-suzi.si**](https://github.com/matejarh/cistilnica-suzi.si) | A business website for a local dry cleaner (Čistilnica Suzi), built with Laravel and Inertia.js. |
 | 🏡 [**mountain-view-apartments**](https://github.com/matejarh/mountain-view-apartments) | A modern multi-language Laravel + Vue site for promoting mountain apartments and handling inquiries. |
 | 🥬 [**mgw-fresh**](https://github.com/matejarh/mgw-fresh) | A fresh produce ordering system with product management and client order interface. |
