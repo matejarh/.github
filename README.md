@@ -47,7 +47,7 @@ I'm a full-stack developer who builds modern, secure, and performant web applica
 
 - 📧 Email: [matej.arh@gmail.com](mailto:matej.arh@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/matej-arh-48902026](https://www.linkedin.com/in/matej-arh-48902026/)
-- 🌍 Portfolio Website: *(coming soon — ask me if you’d like help building one)*
+- 🌍 Portfolio Website: [web3-solutions.eu](https://web3-solutions.eu/)
 
 ---
 
